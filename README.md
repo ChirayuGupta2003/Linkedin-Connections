@@ -22,8 +22,8 @@ Make sure you have Docker installed on your machine. You can download and instal
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/automatic-linkedin-connections-acceptor.git
-cd automatic-linkedin-connections-acceptor
+git clone https://github.com/ChirayuGupta2003/Linkedin-Connections
+cd Linkedin-Connections
 ```
 
 ### Environment Variables
